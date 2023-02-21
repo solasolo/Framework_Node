@@ -1,0 +1,7 @@
+{
+    "node": true,
+    "esversion": 8,
+    "curly": true,
+    "eqeqeq": true,
+    "nocomma": true
+  }
